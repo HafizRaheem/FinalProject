@@ -1,0 +1,35 @@
+.a{
+    color:red;
+}
+span.b{
+    color:green;
+}
+
+.navbar{
+    background-color: rgb(0, 128, 107);
+    text-align: right;
+    
+}
+.navbar li{
+    display: inline-block;
+    font-family: ariel;
+    padding: 2px;
+    margin: 0px;
+    }
+    .navbar a{
+        color: white;
+    }
+.navbar a:hover{
+    opacity: 0.9;
+    color: aqua;
+}
+
+
+    span.a{
+        color:blue;
+        height: 5px;
+    }
+
+.ab{
+  color: green;
+}

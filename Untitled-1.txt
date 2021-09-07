@@ -1,0 +1,20 @@
+<h1>Keyboard Shortcuts</h1>
+
+<p>We will be filling in shortcuts for keyboard</p>
+<ul>
+    <!-- Shortcuts -->
+    <!-- Cut:  -->
+    <li>Cut: ctrl+x</li>
+    <li>Copy: ctrl+c</li>
+    <li>Paste: ctrl+v</li>
+    <li>Undo: ctrl+z</li>
+    <li>Finding Text: ctrl+f</li>
+    <li>Selecting All Text: ctrl+a</li>
+    <li>HTML Starting Template : shift+1</li>
+    <li>HTML Comment: shift+alt+a</li> 
+    <li>Saving File: ctrl+s</li>
+    <li>Saving File to change Name: ctrl+shift+s</li>
+</ul>
+
+
+
