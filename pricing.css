@@ -1,0 +1,128 @@
+ /*NAVBAR*/      
+ #navbar ul li#ab{
+    float: left;
+
+}
+.logo{
+    width: 100px;
+}
+
+.link{
+    padding-top: 30px;  
+}
+.link li{
+    border-right: 3px solid lightgrey ;
+    padding-right: 10px;
+}
+
+#navbar{
+    
+    background-color: #222222;
+    text-align: right;
+    height: 100px;
+    position: fixed;
+    width: 100%;
+        
+}
+#navbar li{
+    display:inline-block;
+    margin-right: 50px;
+    font-size: 20px;
+}
+#navbar a{
+    color: #cccccc;
+}
+#navbar a:hover{
+    color: #fff;
+}
+
+
+/*PRICING*/
+
+.pricing{
+    padding: 50px 0 80px;
+    text-align: center;
+    background-color: #3399ff;
+    padding-top:100px;
+}
+
+.pricing h2,
+.pricing p{
+    color:#fff;
+}
+
+.pricing p{
+    padding-bottom: 40px;
+}
+
+.pricing .pacakages {
+    padding: 30px;
+    border: 1 px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.pacakages li{
+    display: block;
+    padding: 5px;
+}
+
+.pacakages h4,
+.pacakages h1,
+.pacakages b{
+    color: #4c4c4c;
+}
+
+.pacakages p,
+.pacakages li{
+    color: #737373;
+}
+.pacakages button{
+    margin-top: 10px;
+}
+
+@media(max-width:768px){
+    .pricing{
+        padding: 30px;
+    }
+    .pacakages{
+        width: 80px;
+        margin-left: 25px;
+    }
+}
+
+
+
+/* Footer */
+
+.footer{
+    padding: 30px;
+    color: #cccccc;
+    background-color: #222222;    
+}
+
+.footer .social{
+    font-size: 20px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding: 5px;
+    border-bottom: 10px;
+    border: 1px solid #cccccc ;
+    margin-right: 5px;
+}
+
+.footer input{
+    height: 40px;
+    width: 160px;
+    padding: 5px;
+    border: none;
+    background-color: #cccccc;
+    color: #000;
+}
+
+.footer .btn{
+    padding: 15px 5px 10px;
+    margin: 3px 0 0 2px;
+}
